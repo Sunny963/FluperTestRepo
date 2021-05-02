@@ -1,0 +1,29 @@
+[
+  {
+    "Id": 1,
+    "name":"product1",
+    "description": "product1 description",
+    "regular price": 10,
+    "sale price": 7,
+    "product photo": "https://i.picsum.photos/id/927/200/300.jpg?hmac=QPcp-v-pSMdg7Ly4-wWB7E0es9E0WWk9ll_YTYNeb_w",
+    "colors": ["red", "green", "blue"]
+  },
+  {
+    "Id": 2,
+    "name": "product2",
+    "description": "product2 description",
+    "regular price": 12,
+    "sale price": 6,
+    "product photo": "https://i.picsum.photos/id/1060/200/300.jpg?hmac=xYtFmeYcfydIF3-Qybnra-tMwklX69T52EtGd-bacBI",
+    "colors": ["black", "yellow", "green"]
+  },
+  {
+    "Id": 3,
+    "name": "product3",
+    "description": "product3 description",
+    "regular price": 15,
+    "sale price": 7,
+    "product photo": "https://i.picsum.photos/id/130/200/300.jpg?hmac=ax-dkx2e5CJww9f5IfH-mUHr_9eNBKUNGHcA46-0oB0",
+    "colors": ["voilet", "green", "pink"]
+  }
+]

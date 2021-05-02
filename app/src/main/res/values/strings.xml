@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FluperTest</string>
+
+    //*********** main activity ******************//
+    <string name="show_product">Show Product</string>
+    <string name="create_product">Create Product</string>
+
+    //******** product list adapter ****************//
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="sale_price">Sale Price</string>
+    <string name="regular_price">Regular Price</string>
+    <string name="image">Image</string>
+
+    ///********** product detail *********//
+    <string name="delete">delete</string>
+    <string name="edit">edit</string>
+    <string name="error">Error</string>
+</resources>
